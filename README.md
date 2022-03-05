@@ -1,7 +1,7 @@
 <div align="center">
       <h1> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="80px"><br/>spotify clone with react js</h1>
      </div>
-<p align="center"> <a href="https://www.turhansel.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/imturhansel" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/turhansel/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
+
 
 
 
